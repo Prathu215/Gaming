@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atchutha Naga Prathyusha Vinukonda Final Game Project.CSharp.Plugins", "Atchutha Naga Prathyusha Vinukonda Final Game Project.CSharp.Plugins.csproj", "{F52F5492-F1B1-7A10-0236-2D222CB365D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atchutha Naga Prathyusha Vinukonda Final Game Project.CSharp.Editor", "Atchutha Naga Prathyusha Vinukonda Final Game Project.CSharp.Editor.csproj", "{6444DEDC-F544-A9CA-42E1-F63F879F9944}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52F5492-F1B1-7A10-0236-2D222CB365D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52F5492-F1B1-7A10-0236-2D222CB365D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52F5492-F1B1-7A10-0236-2D222CB365D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52F5492-F1B1-7A10-0236-2D222CB365D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6444DEDC-F544-A9CA-42E1-F63F879F9944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6444DEDC-F544-A9CA-42E1-F63F879F9944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6444DEDC-F544-A9CA-42E1-F63F879F9944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6444DEDC-F544-A9CA-42E1-F63F879F9944}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

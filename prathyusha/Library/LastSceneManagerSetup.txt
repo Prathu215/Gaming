@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/prathyusha/Documents/Atchutha Naga Prathyusha Vinukonda Final Game
+    Project/Assets/main game.unity
+  isLoaded: 1
+  isActive: 1
